@@ -19,10 +19,11 @@ An interactive Streamlit dashboard for exploring employee attrition patterns usi
 ---
 
 ## 📍 Conclusion
-This HR Attrition Dashboard reveals clear patterns of employee turnover, especially among female Sales Representatives. Key findings include:
--Sales Representatives have the highest attrition rate, with single women being the most affected group (up to 100% in some segments).
--Marital status, business travel, and work-life balance strongly influence attrition—but improving work-life balance alone is not sufficient for retention among single employees.
--Income disparities, frequent travel, and lack of growth or support structures may contribute to this trend.
+This HR Attrition Dashboard reveals clear patterns of employee turnover, especially among female Sales Representatives. 
+- **Key findings include**:
+  - Sales Representatives have the highest attrition rate, with single women being the most affected group (up to 100% in some segments).
+  - Marital status, business travel, and work-life balance strongly influence attrition—but improving work-life balance alone is not sufficient for retention among single employees.
+  - Income disparities, frequent travel, and lack of growth or support structures may contribute to this trend.
 
 ---
 
