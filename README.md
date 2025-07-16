@@ -6,7 +6,7 @@ An interactive Streamlit dashboard for exploring employee attrition patterns usi
 
 ## 🔍 Key Features
 
-- **Dynamic Filtering**: Filter data by department, gender, job role, marital status, and business travel.
+- **Dynamic Filtering**: Filter data by department, gender, marital status, and business travel.
 - **KPI Metrics**: Track total employees, average monthly income, and overall attrition rate.
 - **Visual Insights**:
   - Attrition rate by department
