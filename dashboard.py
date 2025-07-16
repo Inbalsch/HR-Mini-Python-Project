@@ -37,7 +37,7 @@ def get_unique_sorted(col):
 
 # Categorical filters
 cat_columns = [
-     "BusinessTravel", "Department", "Gender", "JobRole", "MaritalStatus"
+     "BusinessTravel", "Department", "Gender", "MaritalStatus"
 ]
 cat_filters = {}
 for col in cat_columns:
