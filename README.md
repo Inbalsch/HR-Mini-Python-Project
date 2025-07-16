@@ -18,7 +18,6 @@ An interactive Streamlit dashboard for exploring employee attrition patterns usi
 
 ---
 
-## 📁 File Structure
 
 
 
