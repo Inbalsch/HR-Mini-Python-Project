@@ -29,11 +29,11 @@ This HR Attrition Dashboard reveals clear patterns of employee turnover, especia
 
 ## 💡 Recommendations for HR
 To reduce attrition and foster a more supportive work environment, HR should:
--Provide targeted support for high-risk groups (e.g., single female Sales Representatives), including personalized career paths, mentorship, and mental health resources.
--Reevaluate business travel policies—especially for employees with high travel frequency—to promote better work-life integration.
--Ensure equitable compensation and transparent advancement opportunities to improve motivation and retention.
--Promote inclusive culture and emotional support systems tailored to diverse employee backgrounds and life situations.
--Use predictive attrition models to proactively identify and support at-risk employees.
+  - Provide targeted support for high-risk groups (e.g., single female Sales Representatives), including personalized career paths, mentorship, and mental health resources.
+  - Reevaluate business travel policies—especially for employees with high travel frequency—to promote better work-life integration.
+  - Ensure equitable compensation and transparent advancement opportunities to improve motivation and retention.
+  - Promote inclusive culture and emotional support systems tailored to diverse employee backgrounds and life situations.
+  - Use predictive attrition models to proactively identify and support at-risk employees.
 By addressing these factors, HR can enhance employee satisfaction, reduce turnover, and create a more resilient workforce.
 
 
